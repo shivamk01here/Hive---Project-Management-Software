@@ -1,6 +1,9 @@
 ## Hive
-this is project management tool which provide features like - real time notification on mail, sprint creation, admin and role wise database access, authentication.
-from task creation or sprint creation to kanban board to take overview and department wise access for different teams in the same organization it have everything.
+This is project management tool which provide features like - real time notification on mail, sprint creation, admin and role wise database access, authentication.
+From task creation or sprint creation to kanban board to take overview and department wise access for different teams in the same organization it have everything.
+
+
+tech stack used in this project is - Php, Laravel, Bootstrap , MySql, Git, JQuery.
 
 ## About Laravel
 
